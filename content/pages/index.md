@@ -29,7 +29,7 @@ sections:
     subtitle: Aprendizaje
     align: center
     grid_items:
-      - image: /images/CircuitosArmables.jpg
+      - image: /images/CircuitosArmables.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
