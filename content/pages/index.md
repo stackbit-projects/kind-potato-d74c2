@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Clase Gratuita!
         url: 'https://roboticawolf.com/clase-demostrativa'
-        style: primary
+        style: secondary
         has_icon: false
     image: /images/Jahir.jpg
     image_alt: A smiling woman
