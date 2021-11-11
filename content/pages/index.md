@@ -10,7 +10,7 @@ sections:
       - label: Clase Gratuita!
         url: /contact
         style: primary
-        has_icon: true
+        has_icon: false
     image: /images/Jahir.jpg
     image_alt: A smiling woman
     media_position: right
