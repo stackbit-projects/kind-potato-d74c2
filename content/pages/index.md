@@ -48,6 +48,7 @@ sections:
         image_alt: Logo 6
         image_align: center
         title: Armado de Circuitos
+        title_align: center
       - image: /images/UsoSensores.png
         image_alt: Logo 8
         image_align: center
