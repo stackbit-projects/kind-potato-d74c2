@@ -52,9 +52,6 @@ sections:
       - image: /images/UsoSensores.png
         image_alt: Logo 8
         image_align: center
-      - image: /images/coleccion-componentes-electronicos_21565-128.jpg
-        image_alt: Logo 7
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
