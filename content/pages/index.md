@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Curso Permanente de Robótica para Niños
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: 'Los niños desde los 5 años, aprenden programación'
     actions:
       - label: Contact Me
         url: /contact
