@@ -38,7 +38,7 @@ sections:
       - image: /images/Conceptos.png
         image_alt: Logo 3
         image_align: center
-      - image: /images/App IronMan.jpg
+      - image: /images/DiseñoPCB.png
         image_alt: Logo 4
         image_align: center
       - image: /images/Juegos2D-1.png
