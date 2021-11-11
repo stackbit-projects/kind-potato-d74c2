@@ -44,7 +44,7 @@ sections:
       - image: /images/Juegos2D-1.png
         image_alt: Logo 5
         image_align: center
-      - image: images/logo-6.svg
+      - image: /images/ArmadoDeCircuitos.png
         image_alt: Logo 6
         image_align: center
       - image: images/logo-7.svg
