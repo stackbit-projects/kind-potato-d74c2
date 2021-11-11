@@ -26,7 +26,7 @@ sections:
     background_image_opacity: 2
   - type: grid_section
     title: ¿Qué Aprenden los niños y jóvenes?
-    subtitle: Who I work with
+    subtitle: Aprendizaje
     align: center
     grid_items:
       - image: images/logo-1.svg
