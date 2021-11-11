@@ -11,7 +11,7 @@ sections:
         url: 'https://roboticawolf.com/clase-demostrativa'
         style: primary
         has_icon: false
-        icon_position: center
+        icon_position: left
     image: /images/Jahir.jpg
     image_alt: A smiling woman
     media_position: right
