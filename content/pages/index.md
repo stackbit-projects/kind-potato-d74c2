@@ -5,7 +5,7 @@ sections:
     title: Curso Permanente de Robótica para Niños
     subtitle: >-
       Los niños de 5 a 17 años, aprenden programación, electrónica, mecánica y
-      robótica. Creando sus propios juegos y robots
+      robótica. Creando sus propios juegos y robots.
     actions:
       - label: Contact Me
         url: /contact
