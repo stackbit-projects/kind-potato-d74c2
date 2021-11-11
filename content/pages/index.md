@@ -14,7 +14,7 @@ sections:
     image: /images/Jahir.jpg
     image_alt: A smiling woman
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: center
     padding_top: large
     padding_bottom: large
