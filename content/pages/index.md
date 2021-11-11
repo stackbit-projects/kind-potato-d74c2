@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Curso Permanente de Robótica para Niños
-    subtitle: 'Los niños desde los 5 años, aprenden programación'
+    subtitle: 'Los niños de 5 a 17 años, aprenden programación, electrónica, mecánica'
     actions:
       - label: Contact Me
         url: /contact
