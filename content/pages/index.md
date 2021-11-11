@@ -7,7 +7,7 @@ sections:
       Los niños de 5 a 17 años, aprenden programación, electrónica, mecánica y
       robótica. Creando sus propios juegos y robots.
     actions:
-      - label: Contact Me
+      - label: Clase Gratuita!
         url: /contact
         style: primary
     image: /images/Jahir.jpg
