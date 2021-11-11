@@ -8,7 +8,7 @@ sections:
       robótica. Creando sus propios juegos y robots.
     actions:
       - label: Clase Gratuita!
-        url: /contact
+        url: 'https://roboticawolf.com/clase-demostrativa'
         style: primary
         has_icon: false
     image: /images/Jahir.jpg
